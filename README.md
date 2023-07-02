@@ -1,5 +1,5 @@
 # LinnStrument_NRPN_Preset
-A simple Max4Live device that lets you change LinnStrument device presets within Ableton Live Suite (or Standard if you've purchased the separate Max4Live)
+A simple Max for Live device that lets you change LinnStrument device presets within Ableton Live Suite (or Standard if you've purchased the separate Max4Live)
 
 Do **not** change a preset while playing a note. That will cause stuck notes every time.  
 
